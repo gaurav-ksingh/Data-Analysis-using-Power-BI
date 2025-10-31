@@ -16,7 +16,7 @@ Dashboard design
 Sharing Insights
 
 ## Dashboard Interaction
--<a href ="<img width="1289" height="733" alt="Screenshot 2025-10-30 213638" src="https://github.com/user-attachments/assets/441067ee-3067-47cf-a361-54484e57a442">View Dashboard</a>
+- <a href ="<img width="1289" height="733" alt="Screenshot 2025-10-30 213638" src="https://github.com/user-attachments/assets/441067ee-3067-47cf-a361-54484e57a442"/>View Dashboard</a>
 
 
 ## Project Learnings
