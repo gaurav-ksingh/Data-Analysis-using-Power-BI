@@ -3,6 +3,9 @@
 ## Objective
 Owner of Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
+## Dataset used
+-<a href ="C:\Users\GAURAV SINGH\OneDrive\Desktop\Project Files">Store Data<a/>
+
 ## Process
 Data collection
 Data Cleaning and wrangling
