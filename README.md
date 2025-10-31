@@ -15,7 +15,7 @@ Data visualization
 Dashboard design
 Sharing Insights
 
-Dashboard Interaction - <a href ="<https://github.com/gaurav-ksingh/Data-Analysis-using-Power-BI/blob/main/Screenshot%202025-10-30%20213638.png>View Dashboard</a>
+- Dashboard Interaction <a href ="<https://github.com/gaurav-ksingh/Data-Analysis-using-Power-BI/blob/main/Screenshot%202025-10-30%20213638.png>View Dashboard</a>
 
 
 ## Project Learnings
