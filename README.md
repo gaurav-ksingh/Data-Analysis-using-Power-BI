@@ -4,7 +4,8 @@
 Owner of Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
 ## Dataset used
--<a href ="C:\Users\GAURAV SINGH\OneDrive\Desktop\Project Files">Store Data<a/>
+-<a href ="https://github.com/gaurav-ksingh/Data-Analysis-using-Power-BI/blob/main/Details.csv.xlsx">Details<a/>
+-<a href ="https://github.com/gaurav-ksingh/Data-Analysis-using-Power-BI/blob/main/Orders.csv.xlsx">Orders</a>
 
 ## Process
 Data collection
@@ -13,6 +14,10 @@ Data modeling
 Data visualization
 Dashboard design
 Sharing Insights
+
+## Dashboard Interaction
+-<a href ="<img width="1289" height="733" alt="Screenshot 2025-10-30 213638" src="https://github.com/user-attachments/assets/441067ee-3067-47cf-a361-54484e57a442">View Dashboard</a>
+
 
 ## Project Learnings
 -Created interactive dashboard to track and analyze online sales data.
